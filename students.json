@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "marks": {
+      "Math": 85,
+      "Science": 90,
+      "English": 78,
+      "ICT": 92,
+      "History": 88
+    },
+    "total": 433,
+    "grade": "B"
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "marks": {
+      "Math": 95,
+      "Science": 93,
+      "English": 91,
+      "ICT": 94,
+      "History": 89
+    },
+    "total": 462,
+    "grade": "A"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "marks": {
+      "Math": 72,
+      "Science": 68,
+      "English": 75,
+      "ICT": 70,
+      "History": 65
+    },
+    "total": 350,
+    "grade": "C"
+  }
+]
